@@ -3,7 +3,7 @@ import com.google.gson.GsonBuilder;
 
 public class CyberChain {
     public static ArrayList<Block> blockchain = new ArrayList<Block>();
-    public static int difficulty = 1;
+    public static int difficulty = 5;
 
     public static void main(String[] args) {
         blockchain.add(new Block("First Block", "0"));
