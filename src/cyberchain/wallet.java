@@ -3,11 +3,11 @@ package cyberchain;
 import java.security.*;
 import java.security.spec.ECGenParameterSpec;
 
-public class wallet {
+public class Wallet {
     public PrivateKey privateKey;
     public PublicKey publicKey;
 
-    public Wallet(){
+    public Wallet() {
         generateKeyPair();
     }
 
