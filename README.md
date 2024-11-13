@@ -25,25 +25,24 @@ This project demonstrates the fundamental concepts of a blockchain, including bl
 ## Installation
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/java-blockchain.git
-    ```
+   ```sh
+   git clone https://github.com/gitcomit8/cyberchain.git
+   ```
 2. Navigate to the project directory:
-    ```sh
-    cd java-blockchain
-    ```
+   ```sh
+   cd java-blockchain
+   ```
 3. Compile the project:
-    ```sh
-    javac -d bin src/*.java
-    ```
+   ```sh
+   javac -d bin src/*.java
+   ```
 
 ## Usage
 
 1. Run the project:
-    ```sh
-    java -cp bin Main
-    ```
-2. Follow the on-screen instructions to interact with the blockchain.
+   ```sh
+   java -cp bin CyberChain
+   ```
 
 ## Contributing
 
