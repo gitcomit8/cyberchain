@@ -8,6 +8,7 @@ This project is a basic proof of concept for a blockchain implemented in Java. I
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo Video](#demo-video)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -40,9 +41,13 @@ This project demonstrates the fundamental concepts of a blockchain, including bl
 ## Usage
 
 1. Run the project:
-   ```sh
-   java -cp bin CyberChain
-   ```
+   
+   Run on VS Code
+
+## Demo Video
+
+   [![Terminal Recording](https://asciinema.org/a/AOYTW0tN8SMA92vQUKh62MrwO.png)](https://asciinema.org/a/AOYTW0tN8SMA92vQUKh62MrwO)
+
 
 ## Contributing
 
